@@ -31,6 +31,7 @@ Imagem gerada por IA
 ## 🤖 Tecnologias Utilizadas
 
 Bing AI image generator
+
 Prompt: A little girl with anxiety playing in her room with some fidget toys, she is using a pink dress and her room resembles a barbie's house
 
 ## 🧐 Processo de Criação
