@@ -23,19 +23,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Imagem gerada por IA
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Bing AI image generator
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Uma imagem de uma criança que mostre como brincar com fidget toys pode ser benéfico para saúde mental e ajudar a controlar ansiedade
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+(https://www.bing.com/images/create/a-little-girl-with-anxiety-playing-in-her-room-wit/1-66a6281a435643a9a1b5f3ea6294dfb1?id=mBYrSWFvrTfVRvlBg3KybQ%3d%3d&view=detailv2&idpp=genimg&thId=OIG2.l2XLWDnpSFW7yUM0E2sJ&FORM=GCRIDP&mode=overlay)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Eu desejo que mesmo sendo 'natty' as IAs possam fornecer ajuda no tratamento da saúde mental e da ansiedade das pessoas
 ```
 
 ### Exemplos e Insigths
