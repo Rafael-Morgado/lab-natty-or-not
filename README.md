@@ -22,20 +22,29 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
 
+Fidget Toys e a Saúde Mental
+
 ## 📒 Descrição
+
 Imagem gerada por IA
 
 ## 🤖 Tecnologias Utilizadas
+
 Bing AI image generator
+Prompt: A little girl with anxiety playing in her room with some fidget toys, she is using a pink dress and her room resembles a barbie's house
 
 ## 🧐 Processo de Criação
+
 Uma imagem de uma criança que mostre como brincar com fidget toys pode ser benéfico para saúde mental e ajudar a controlar ansiedade
 
 ## 🚀 Resultados
-(https://www.bing.com/images/create/a-little-girl-with-anxiety-playing-in-her-room-wit/1-66a6281a435643a9a1b5f3ea6294dfb1?id=mBYrSWFvrTfVRvlBg3KybQ%3d%3d&view=detailv2&idpp=genimg&thId=OIG2.l2XLWDnpSFW7yUM0E2sJ&FORM=GCRIDP&mode=overlay)
+
+https://www.bing.com/images/create/a-little-girl-with-anxiety-playing-in-her-room-wit/1-66a6281a435643a9a1b5f3ea6294dfb1?id=mBYrSWFvrTfVRvlBg3KybQ%3d%3d&view=detailv2&idpp=genimg&thId=OIG2.l2XLWDnpSFW7yUM0E2sJ&FORM=GCRIDP&mode=overlay
 
 ## 💭 Reflexão (Opcional)
-Eu desejo que mesmo sendo 'natty' as IAs possam fornecer ajuda no tratamento da saúde mental e da ansiedade das pessoas
+
+Eu desejo que mesmo sendo 'natty' as IAs possam fornecer ajuda no tratamento da saúde mental e da ansiedade das pessoas e o desafio é a aceitação em temas delicados como esse.
+
 ```
 
 ### Exemplos e Insigths
