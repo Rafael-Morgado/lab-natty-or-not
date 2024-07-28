@@ -17,10 +17,10 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
     3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
 1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
-### Template
+# Template
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+
+## Título do Projeto Extremamente Aesthetic ;)
 
 Fidget Toys e a Saúde Mental
 
@@ -39,13 +39,14 @@ Uma imagem de uma criança que mostre como brincar com fidget toys pode ser ben�
 
 ## 🚀 Resultados
 
-https://www.bing.com/images/create/a-little-girl-with-anxiety-playing-in-her-room-wit/1-66a6281a435643a9a1b5f3ea6294dfb1?id=mBYrSWFvrTfVRvlBg3KybQ%3d%3d&view=detailv2&idpp=genimg&thId=OIG2.l2XLWDnpSFW7yUM0E2sJ&FORM=GCRIDP&mode=overlay
+![IMAGEM GERADA POR IA](https://th.bing.com/th/id/OIG2.l2XLWDnpSFW7yUM0E2sJ?pid=ImgGn)
+
 
 ## 💭 Reflexão (Opcional)
 
 Eu desejo que mesmo sendo 'natty' as IAs possam fornecer ajuda no tratamento da saúde mental e da ansiedade das pessoas e o desafio é a aceitação em temas delicados como esse.
 
-```
+
 
 ### Exemplos e Insigths
 
@@ -58,3 +59,4 @@ Eu desejo que mesmo sendo 'natty' as IAs possam fornecer ajuda no tratamento da 
 [Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
 
 ![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+
